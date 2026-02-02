@@ -1,0 +1,13 @@
+theme: minima
+title: 683280yj's Personal Blog
+description: This is where I share cool stuff about my life
+author: 683280yj
+
+# 社交媒体链接
+social:
+  github: https://github.com/683280yj
+  twitter: https://twitter.com/your_twitter_handle
+  linkedin: https://www.linkedin.com/in/your-linkedin-profile
+
+# 其他配置
+paginate: 5  # 每页显示的文章数量
